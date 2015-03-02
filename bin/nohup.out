@@ -1,0 +1,920 @@
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140803_0022_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140803_0022_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140803_0022_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140803_0022_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140803_0022_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140803_0204_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140803_0204_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140803_0204_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140803_0204_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140803_0204_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140803_0345_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140803_0345_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140803_0345_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140803_0345_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140803_0345_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140803_0708_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140803_0708_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140803_0708_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140803_0708_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140803_0708_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140803_0850_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140803_0850_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140803_0850_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140803_0850_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140803_0850_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140803_1031_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140803_1031_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140803_1031_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140803_1031_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140803_1031_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_0126_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_0126_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_0126_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_0126_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_0126_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_0307_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_0307_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_0307_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_0307_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_0307_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_0449_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_0449_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_0449_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_0449_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_0449_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_0630_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_0630_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_0630_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_0630_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_0630_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_0812_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_0812_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_0812_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_0953_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_0953_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_0953_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_0953_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_0953_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1135_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1135_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1135_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1135_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1135_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1316_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1316_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1316_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1316_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1316_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1458_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1458_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1458_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1458_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1458_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1639_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1639_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1639_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1639_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1639_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1821_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1821_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1821_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/F/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_2144_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_2144_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_2144_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_2144_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_2144_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_2325_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_2325_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_2325_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_2325_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_2325_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0107_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0107_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0107_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0107_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0107_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0248_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0248_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0248_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0248_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0248_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0430_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0430_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0430_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0430_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0430_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0611_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0611_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0611_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0611_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0611_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0753_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0753_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0753_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0753_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0753_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0934_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0934_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0934_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0934_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0934_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1116_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1116_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1116_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1116_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1116_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1257_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1257_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1257_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1257_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1257_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1439_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1439_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1439_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1439_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1439_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1620_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1620_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1620_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1620_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1620_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1802_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1802_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1802_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1802_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1802_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1943_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1943_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1943_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1943_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1943_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_2125_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_2125_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_2125_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_2125_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_2125_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_2306_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_2306_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_2306_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_2306_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_2306_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INP/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0411_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0411_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0411_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0411_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0411_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0552_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0552_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0552_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0552_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0552_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0734_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0734_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0734_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0734_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0734_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0915_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0915_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0915_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0915_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0915_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1057_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1057_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1057_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1057_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1057_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1238_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1238_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1238_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1238_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1238_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1420_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1420_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1420_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1420_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1420_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1601_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1601_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1601_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1601_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1601_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1743_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1743_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1743_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1743_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1743_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1924_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1924_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1924_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1924_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1924_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_2106_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_2106_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_2106_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0029_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0029_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0029_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0029_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0029_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0210_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0210_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0210_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0210_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0210_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0352_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0352_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0352_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0352_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0352_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0533_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0533_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0533_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0533_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0533_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0715_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0715_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0715_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0715_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0715_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0856_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0856_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0856_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/F/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1219_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1219_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1219_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1219_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1219_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1401_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1401_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1401_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1401_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1401_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1542_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1542_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1542_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1542_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1542_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1724_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1724_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1724_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1905_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1905_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1905_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1905_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1905_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_2047_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_2047_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_2047_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_2047_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_2047_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_2228_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_2228_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_2228_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_2228_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_2228_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0010_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0010_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0010_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0010_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0010_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0151_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0151_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0151_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0151_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0151_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0333_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0333_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0333_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0333_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0333_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0514_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0514_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0514_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0514_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0514_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0656_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0656_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0656_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0656_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0656_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0837_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0837_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0837_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0837_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0837_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1019_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1019_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1019_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1019_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1019_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1200_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1200_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1200_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1200_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1200_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1342_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1342_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1342_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1342_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1342_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1523_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1523_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1523_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/F/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1846_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1846_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1846_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1846_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1846_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_2028_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_2028_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_2028_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_2028_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_2028_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_2209_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_2209_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_2209_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_2209_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_2209_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_2351_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_2351_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_2351_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_2351_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_2351_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0132_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0132_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0132_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0132_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0132_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0314_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0314_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0314_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0314_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0314_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0455_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0455_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0455_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0455_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0455_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0637_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0637_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0637_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0637_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0637_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0818_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0818_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0818_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0818_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0818_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1000_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1000_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1000_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1000_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1000_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1141_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1141_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1141_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1141_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1141_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1323_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1323_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1323_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1323_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1323_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1504_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1504_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1504_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1504_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1504_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1646_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1646_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1646_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1646_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1646_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1827_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1827_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1827_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1827_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1827_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_2009_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_2009_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_2009_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_2009_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_2009_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INP/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_2332_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_2332_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_2332_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_2332_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_2332_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0113_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0113_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0113_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0113_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0113_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0255_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0255_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0255_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0255_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0255_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0436_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0436_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0436_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0436_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0436_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0618_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0618_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0618_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0618_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0618_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0759_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0759_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0759_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0759_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0759_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0941_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0941_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0941_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0941_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0941_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1122_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1122_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1122_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1122_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1122_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1304_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1304_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1304_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1304_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1304_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1445_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1445_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1445_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1445_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1445_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1627_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1627_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1627_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1627_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1627_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1808_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1808_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1808_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1808_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1808_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1809_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1809_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1809_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1809_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1809_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1950_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1950_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1950_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1950_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1950_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_2132_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_2132_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_2132_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_2132_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_2132_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_2313_015KM_MS.HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_2313_015KM_MS.HDF.L1B.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_2313_015KM_MS.HDF.SIM.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_2313_015KM_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_2313_015KM_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+/assimilation/fymonitor/DATA/INPmv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_0953_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_0953_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_0953_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1135_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1135_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1135_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1316_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1316_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1316_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1458_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1458_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1458_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1639_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1639_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1639_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1821_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1821_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_1821_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_2002_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_2002_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_2002_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_2144_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_2144_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_2144_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_2325_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_2325_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140805_2325_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0107_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0107_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0107_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0248_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0248_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0248_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0430_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0430_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0430_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0611_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0611_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0611_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0753_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0753_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0753_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0934_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0934_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_0934_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1116_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1116_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1116_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1257_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1257_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1257_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1439_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1439_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1439_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1620_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1620_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1620_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1802_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1802_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1802_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1943_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1943_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_1943_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_2125_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_2125_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_2125_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_2306_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_2306_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140806_2306_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0048_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0048_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0048_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0229_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0229_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0229_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0411_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0411_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0411_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0552_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0552_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0552_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0734_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0734_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0734_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0915_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0915_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_0915_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1057_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1057_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1057_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1238_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1238_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1238_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1420_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1420_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1420_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1601_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1601_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1601_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1743_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1743_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1743_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1924_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1924_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_1924_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_2106_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_2106_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_2106_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_2247_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_2247_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140807_2247_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0029_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0029_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0029_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0210_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0210_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0210_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0352_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0352_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0352_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0533_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0533_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0533_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0715_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0715_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0715_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0856_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0856_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_0856_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1038_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1038_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1038_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1219_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1219_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1219_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1401_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1401_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1401_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1542_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1542_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1542_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1724_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1724_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1724_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1905_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1905_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_1905_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_2047_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_2047_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_2047_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_2228_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_2228_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140808_2228_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0010_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0010_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0010_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0151_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0151_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0151_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0333_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0333_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0333_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0514_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0514_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0514_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0656_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0656_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0656_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0837_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0837_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_0837_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1019_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1019_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1019_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1200_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1200_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1200_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1342_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1342_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1342_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1523_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1523_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1523_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1705_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1705_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1705_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1846_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1846_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_1846_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_2028_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_2028_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_2028_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_2209_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_2209_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_2209_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_2351_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_2351_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140809_2351_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0132_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0132_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0132_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0314_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0314_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0314_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0455_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0455_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0455_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0637_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0637_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0637_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0818_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0818_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_0818_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1000_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1000_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1000_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1141_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1141_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1141_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1323_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1323_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1323_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1504_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1504_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1504_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1646_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1646_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1646_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1827_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1827_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_1827_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_2009_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_2009_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_2009_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_2150_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_2150_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_2150_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_2332_OBCXX_MS.HDF.OBC.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_2332_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140810_2332_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/ARCH/HDF/FY3C/MWHS/2014/08
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0113_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0113_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0255_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0255_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0436_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0436_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0618_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0618_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0759_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0759_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0941_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_0941_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1122_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1122_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1304_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1304_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1445_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1445_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1627_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1627_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1808_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1808_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1809_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1809_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1950_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_1950_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_2132_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_2132_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_2313_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140811_2313_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140812_0055_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140812_0055_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140812_0236_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140812_0236_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140812_0418_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140812_0418_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140812_0559_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140812_0559_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140812_0741_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140812_0741_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140812_0922_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140812_0922_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140812_1104_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140812_1104_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140812_1245_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140812_1245_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140812_1427_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140812_1427_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140812_1608_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140812_1608_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140812_1750_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140812_1750_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140812_1931_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140812_1931_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140812_2113_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140812_2113_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140812_2254_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140812_2254_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140813_0036_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140813_0036_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140813_0217_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140813_0217_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140813_0359_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140813_0359_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140813_0540_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140813_0540_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140813_0722_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140813_0722_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140813_0903_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140813_0903_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140813_1045_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140813_1045_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140813_1226_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140813_1226_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140813_1408_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140813_1408_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140813_1549_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140813_1549_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140813_1731_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140813_1731_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140813_1912_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140813_1912_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140813_2054_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140813_2054_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140813_2235_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140813_2235_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140814_0017_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140814_0017_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140814_0158_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140814_0158_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140814_0340_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140814_0340_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140814_0521_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140814_0521_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140814_0703_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140814_0703_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140814_0844_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140814_0844_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140814_1026_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140814_1026_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140814_1207_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140814_1207_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140814_1349_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140814_1349_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140814_1530_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140814_1530_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140814_1712_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140814_1712_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140814_1853_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140814_1853_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140814_2035_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140814_2035_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140814_2216_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140814_2216_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140814_2358_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140814_2358_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140815_0139_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140815_0139_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140815_0321_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140815_0321_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140815_0502_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140815_0502_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140815_0644_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140815_0644_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140815_0825_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140815_0825_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140815_1007_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140815_1007_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140815_1148_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140815_1148_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140815_1330_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140815_1330_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140815_1511_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140815_1511_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140815_1653_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140815_1653_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140815_1834_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140815_1834_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140815_2016_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140815_2016_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140815_2157_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140815_2157_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140815_2339_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140815_2339_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140816_0120_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140816_0120_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140816_0302_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140816_0302_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140816_0443_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140816_0443_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140816_0625_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140816_0625_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140816_0806_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140816_0806_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140816_0948_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140816_0948_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140816_1129_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140816_1129_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140816_1311_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140816_1311_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140816_1452_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140816_1452_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140816_1634_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140816_1634_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140816_1815_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140816_1815_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140816_1957_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140816_1957_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140816_2138_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140816_2138_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140816_2320_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140816_2320_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140817_0101_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140817_0101_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140817_0243_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140817_0243_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140817_0424_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140817_0424_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140817_0606_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140817_0606_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140817_0747_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140817_0747_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140817_0929_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140817_0929_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140817_1110_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140817_1110_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140817_1252_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140817_1252_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140817_1433_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140817_1433_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140817_1615_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140817_1615_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140817_1756_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140817_1756_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140817_1938_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140817_1938_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140817_2119_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140817_2119_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140817_2301_OBCXX_MS.HDF.OK, dest=/assimilation/fymonitor/DATA/REDO/HDF
+mv_file error. src=/assimilation/fymonitor/DATA/INPUT/HDF/FY3C_MWHSX_GBAL_L1_20140817_2301_OBCXX_MS.HDF, dest=/assimilation/fymonitor/DATA/REDO/HDF

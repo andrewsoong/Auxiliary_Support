@@ -1,0 +1,1 @@
+sub_title=(/"a) Day","b) Month","c) Year","d) Life"/)

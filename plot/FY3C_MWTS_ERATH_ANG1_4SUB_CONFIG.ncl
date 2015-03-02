@@ -1,0 +1,9 @@
+day_min=39
+day_max=41
+mon_min=39
+mon_max=41
+year_min=39
+year_max=41
+life_min=39
+life_max=41
+sub_title=(/"a) Day","b) Month","c) Year","d) Life"/)

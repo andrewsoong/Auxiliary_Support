@@ -1,0 +1,10 @@
+./SUB_DRXYL_BTOPB_New_1.bash    20140216 20140409 /home/f3cmon/MONITOR/py/sy/FY3C_MWTS_OBC_2014-02-16-2014-04-09
+
+/home/f3cmon/ncl/bin/ncl 'sat="FY3C"' 'instrument="MWTS"' 'BG_YMD=20140216' 'ED_YMD=20140409'  'file_in="/home/f3cmon/MONITORFY3C/py2/bin/FY3C_MWTS_OBC_2014-02-16-2014-04-09.HDF"' 'file_out="FY3C_MWTS_20140216_0000_to_20131207_1200"' SUB_DRXYL_BTOPB_New_1.ncl
+
+
+
+
+/home/f3cmon/ncl/bin/ncl 'sat="FY3C"' 'instrument="MWTS"' 'BG_YMD=20140216' 'ED_YMD=20140409'  'file_in="/home/f3cmon/MONITORFY3C/py2/bin/FY3C_MWTS_OBC_2014-02-16-2014-04-09.HDF"'  SUB_DRXYL_BTOPB_merge.ncl
+       
+     

@@ -1,0 +1,3 @@
+ 
+  /home/f3cmon/ncl/bin/ncl 'sat="FY3C"' 'instrument="MWTS"' 'BG_YMD=20140303' 'ED_YMD=20140429'  'file_in="/home/f3cmon/MONITORFY3C/py2/bin/FY3C_MWTS_OBC_2014-03-03-2014-04-29.HDF"' 'fil_out="FY3C_MWTS_OBC_2014-03-03-2014-04-29_HOT_ANG"' SUB_DRXYL_BTOPB_HOT_ANGsplit.ncl
+       

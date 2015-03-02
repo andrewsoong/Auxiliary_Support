@@ -1,0 +1,42 @@
+#*/2 * * * * source ~/.bashrc; /usr/bin/python /home/f3cmon/MONITORFY3C/py2/bin/daemon.py  --prog=sim_v2.py --sat=fy3c --ins=mwts --nwp=t639 >> /home/f3cmon/DATA/LOG/daemon.py.log 2>&1
+*/2 * * * * source ~/.bashrc; /usr/bin/python /home/f3cmon/MONITORFY3C/py2/bin/daemon.py --prog=t639_to_bin.py --sat=fy3c --ins=mwts >> /home/f3cmon/DATA/LOG/daemon.py.log 2>&1
+*/2 * * * * source ~/.bashrc; /usr/bin/python /home/f3cmon/MONITORFY3C/py2/bin/daemon.py  --prog=obc_to_db.py --sat=fy3c --ins=mwts >> /home/f3cmon/DATA/LOG/daemon.py.log 2>&1
+*/2 * * * * source ~/.bashrc; /usr/bin/python /home/f3cmon/MONITORFY3C/py2/bin/daemon.py  --prog=obc_to_db.py --sat=fy3c --ins=mwhs >> /home/f3cmon/DATA/LOG/daemon.py.log 2>&1
+*/2 * * * * source ~/.bashrc; /usr/bin/python /home/f3cmon/MONITORFY3C/py2/bin/daemon.py  --prog=obc_to_db.py --sat=fy3c --ins=mwri >> /home/f3cmon/DATA/LOG/daemon.py.log 2>&1
+*/2 * * * * source ~/.bashrc; /usr/bin/python /home/f3cmon/MONITORFY3C/py2/bin/daemon.py  --prog=obc_to_db.py --sat=fy3c --ins=iras >> /home/f3cmon/DATA/LOG/daemon.py.log 2>&1
+*/2 * * * * source ~/.bashrc; /usr/bin/python /home/f3cmon/MONITORFY3C/py2/bin/daemon.py --prog=hdf_sim_to_db.py --sat=fy3c --ins=mwts --nwp=t639 >> /home/f3cmon/DATA/LOG/daemon.py.log 2>&1
+*/2 * * * * source ~/.bashrc; /usr/bin/python /home/f3cmon/MONITORFY3C/py2/bin/daemon.py --prog=hdf_sim_to_db.py --sat=fy3c --ins=mwhs --nwp=t639 >> /home/f3cmon/DATA/LOG/daemon.py.log 2>&1
+*/2 * * * * source ~/.bashrc; /usr/bin/python /home/f3cmon/MONITORFY3C/py2/bin/daemon.py --prog=hdf_sim_to_db.py --sat=fy3c --ins=mwri --nwp=t639 >> /home/f3cmon/DATA/LOG/daemon.py.log 2>&1
+*/2 * * * * source ~/.bashrc; /usr/bin/python /home/f3cmon/MONITORFY3C/py2/bin/daemon.py --prog=hdf_sim_to_db.py --sat=fy3c --ins=iras --nwp=t639 >> /home/f3cmon/DATA/LOG/daemon.py.log 2>&1
+#
+#0 1 * * * source ~/.bashrc; /usr/bin/python /home/f3cmon/MONITORFY3C/py2/bin/calc_oneday_global_drawmap.py --sat=fy3c --ins=mwts --just_calc=false >> /home/f3cmon/DATA/LOG/calc_oneday_global_drawmap.py.log 2>&1
+#0 2 * * * source ~/.bashrc; /usr/bin/python /home/f3cmon/MONITORFY3C/py2/bin/calc_oneday_global_drawmap.py --sat=fy3c --ins=mwhs --just_calc=false >> /home/f3cmon/DATA/LOG/calc_oneday_global_drawmap.py.log 2>&1
+#0 3 * * * source ~/.bashrc; /usr/bin/python /home/f3cmon/MONITORFY3C/py2/bin/calc_oneday_global_drawmap.py --sat=fy3c --ins=iras --just_calc=false >> /home/f3cmon/DATA/LOG/calc_oneday_global_drawmap.py.log 2>&1
+#
+#0 13 * * * source ~/.bashrc; /usr/bin/python /home/f3cmon/MONITORFY3C/py2/bin/calc_oneday_global_drawmap.py --sat=fy3c --ins=mwts --just_calc=false >> /home/f3cmon/DATA/LOG/calc_oneday_global_drawmap.py.log 2>&1
+#0 14 * * * source ~/.bashrc; /usr/bin/python /home/f3cmon/MONITORFY3C/py2/bin/calc_oneday_global_drawmap.py --sat=fy3c --ins=mwhs --just_calc=false >> /home/f3cmon/DATA/LOG/calc_oneday_global_drawmap.py.log 2>&1
+#0 15 * * * source ~/.bashrc; /usr/bin/python /home/f3cmon/MONITORFY3C/py2/bin/calc_oneday_global_drawmap.py --sat=fy3c --ins=iras --just_calc=false >> /home/f3cmon/DATA/LOG/calc_oneday_global_drawmap.py.log 2>&1
+#
+# gumeng add. 2014-05-22 for fy3c-bt-curve
+30 0,6,12,18 * * * source ~/.bashrc; /usr/bin/python /home/f3cmon/MONITORFY3C/py2/bin/calc_draw_bt.py  --sat=fy3c --ins=mwts --nwp=t639 --span=6 --date=now --just_calc=false >> /home/f3cmon/DATA/LOG/calc_draw_bt.py.log 2>&1
+35 0,6,12,18 * * * source ~/.bashrc; /usr/bin/python /home/f3cmon/MONITORFY3C/py2/bin/calc_draw_bt.py  --sat=fy3c --ins=mwhs --nwp=t639 --span=6 --date=now --just_calc=false >> /home/f3cmon/DATA/LOG/calc_draw_bt.py.log 2>&1
+40 0,6,12,18 * * * source ~/.bashrc; /usr/bin/python /home/f3cmon/MONITORFY3C/py2/bin/calc_draw_bt.py  --sat=fy3c --ins=mwri --nwp=t639 --span=6 --date=now --just_calc=false >> /home/f3cmon/DATA/LOG/calc_draw_bt.py.log 2>&1
+50 0,6,12,18 * * * source ~/.bashrc; /usr/bin/python /home/f3cmon/MONITORFY3C/py2/bin/calc_draw_bt.py  --sat=fy3c --ins=iras --nwp=t639 --span=6 --date=now --just_calc=false >> /home/f3cmon/DATA/LOG/calc_draw_bt.py.log 2>&1
+
+#gumeng add. 2014-06-26 for fy3c-lat-map
+0 1,13 * * * source ~/.bashrc; /usr/bin/python /home/f3cmon/MONITORFY3C/py2/bin/calc_draw_lat.py --sat=fy3c --ins=mwts --nwp=t639 --lat_span=5 --hour_span=12  --just_calc=false --just_draw=false --date=now >> /home/f3cmon/DATA/LOG/calc_draw_lat.py.log 2>&1
+10 1,13 * * * source ~/.bashrc; /usr/bin/python /home/f3cmon/MONITORFY3C/py2/bin/calc_draw_lat.py --sat=fy3c --ins=mwhs --nwp=t639 --lat_span=5 --hour_span=12  --just_calc=false --just_draw=false --date=now >> /home/f3cmon/DATA/LOG/calc_draw_lat.py.log 2>&1
+20 1,13 * * * source ~/.bashrc; /usr/bin/python /home/f3cmon/MONITORFY3C/py2/bin/calc_draw_lat.py --sat=fy3c --ins=iras --nwp=t639 --lat_span=5 --hour_span=12  --just_calc=false --just_draw=false --date=now >> /home/f3cmon/DATA/LOG/calc_draw_lat.py.log 2>&1
+30 1,13 * * * source ~/.bashrc; /usr/bin/python /home/f3cmon/MONITORFY3C/py2/bin/calc_draw_lat.py --sat=fy3c --ins=mwri --nwp=t639 --lat_span=5 --hour_span=12  --just_calc=false --just_draw=false --date=now >> /home/f3cmon/DATA/LOG/calc_draw_lat.py.log 2>&1
+
+
+#for test!!!
+* * * * * /usr/bin/python /home/f3cmon/MONITORFY3C/py2/bin/mvhdf.py >> /tmp/testmvhdf.txt 2>&1  
+0 7 * * * /usr/bin/python /home/f3cmon/MONITORFY3C/py2/bin/mvt639.py 00 >> /tmp/testt639_7.txt 2>&1
+0 19 * * * /usr/bin/python /home/f3cmon/MONITORFY3C/py2/bin/mvt639.py 12 >> /tmp/test639_19.txt 2>&1
+
+*/2 * * * * source ~/.bashrc; /usr/bin/python /home/f3cmon/MONITORFY3C/py2/bin/daemon.py  --prog=mvfile.py  --sat=fy3c --ins=iras --nwp=gbal >> /home/f3cmon/DATA/LOG/daemon.py.log 2>&1
+*/2 * * * * source ~/.bashrc; /usr/bin/python /home/f3cmon/MONITORFY3C/py2/bin/daemon.py  --prog=mvfile.py  --sat=fy3c --ins=mwhs --nwp=gbal >> /home/f3cmon/DATA/LOG/daemon.py.log 2>&1
+*/2 * * * * source ~/.bashrc; /usr/bin/python /home/f3cmon/MONITORFY3C/py2/bin/daemon.py  --prog=mvfile.py  --sat=fy3c --ins=mwri --nwp=gbal >> /home/f3cmon/DATA/LOG/daemon.py.log 2>&1
+*/2 * * * * source ~/.bashrc; /usr/bin/python /home/f3cmon/MONITORFY3C/py2/bin/daemon.py  --prog=mvfile.py  --sat=fy3c --ins=mwts --nwp=gbal >> /home/f3cmon/DATA/LOG/daemon.py.log 2>&1
+*/2 * * * * source ~/.bashrc; /usr/bin/python /home/f3cmon/MONITORFY3C/py2/bin/daemon.py  --prog=mvfile.py  --sat=639 --ins=639 --nwp=639 >> /home/f3cmon/DATA/LOG/daemon.py.log 2>&1
